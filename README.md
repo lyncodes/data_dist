@@ -7,7 +7,7 @@ This project mainly focus on thing as follows:
 - send a email which contains the encrypted zip file and a correlated messages.
 - full suport logging for every detail.
 ## environment requirement
-- python 3.6
+- python 3.6.
 - a existed SQL server
 - 7z(open source packing/unpacking software **which support cmd calling**)
 - a email server(like gmail,hotmail,even your company email server.)
